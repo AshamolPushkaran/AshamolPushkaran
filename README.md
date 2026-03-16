@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer (.NET + Angular)  
 🚀 3+ years experience building enterprise web applications  
-📍 India | Open to Remote / Bangalore opportunities  
+📍 India 
 
 ## 🛠️ Tech Stack
 
