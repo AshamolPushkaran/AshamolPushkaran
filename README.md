@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Ashamol Pushkaran
 
-<!--
-**AshamolPushkaran/AshamolPushkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (.NET + Angular)  
+🚀 3+ years experience building enterprise web applications  
+📍 India | Open to Remote / Bangalore opportunities  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** C#, .NET Core, ASP.NET MVC, Web API  
+**Frontend:** Angular, HTML5, CSS3, Bootstrap  
+**Database:** SQL Server, Entity Framework  
+**Cloud & DevOps:** Microsoft Azure, CI/CD  
+**Tools:** Git, Visual Studio  
+
+## 📌 About Me
+
+- Passionate about building scalable backend systems  
+- Strong in REST APIs and database design  
+- Experience with enterprise-level applications  
+- Currently seeking new opportunities  
+
+## 📫 Contact Me
+
+📧 Email: ashamolpushkaran097@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ashamol-pushkaran-003b99222
