@@ -1,42 +1,23 @@
 # Hi 👋 I'm Ashamol Pushkaran
 
 💻 Full Stack Developer (.NET + Angular)  
-🚀 3+ Years Experience in Enterprise Applications  
-📍 India  
-
-## 🌟 About Me
-
-- 🔭 Experienced in building scalable web applications  
-- 💡 Strong in REST APIs, backend systems & databases  
-- 🏢 Worked on enterprise-level projects  
-- 🎯 Actively seeking Full Stack / .NET roles  
-- ⚡ Passionate about clean architecture & performance  
+🚀 3+ years experience building enterprise web applications  
+📍 India
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
-C# | .NET Core | ASP.NET MVC | Web API | Entity Framework  
+**Backend:** C#, .NET Core, ASP.NET MVC, Web API  
+**Frontend:** Angular, HTML5, CSS3, Bootstrap  
+**Database:** SQL Server, Entity Framework  
+**Cloud & DevOps:** Microsoft Azure, CI/CD  
+**Tools:** Git, Visual Studio  
 
-### 🎨 Frontend
-Angular | HTML5 | CSS3 | Bootstrap | JavaScript  
+## 📌 About Me
 
-### 🗄️ Database
-SQL Server | Stored Procedures  
-
-### ☁️ Cloud & DevOps
-Microsoft Azure | CI/CD | Git  
-
-### 🔧 Tools
-Visual Studio | Postman | GitHub  
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshamolPushkaran&show_icons=true)
----
-
-## 📌 Featured Projects
-
-🚧 Projects coming soon — currently uploading production-level work  
+- Passionate about building scalable backend systems  
+- Strong in REST APIs and database design  
+- Experience with enterprise-level applications  
+- Currently seeking new opportunities  
 
 ## 📫 Contact Me
 
