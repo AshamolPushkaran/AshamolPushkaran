@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 **Backend:** C#, .NET Core, ASP.NET MVC, Web API  
-**Frontend:** Angular, HTML5, CSS3, Bootstrap  
+**Frontend:** Angular, HTML5, CSS3,Javascript,Bootstrap  
 **Database:** SQL Server, Entity Framework  
 **Cloud & DevOps:** Microsoft Azure, CI/CD  
 **Tools:** Git, Visual Studio  
@@ -21,5 +21,8 @@
 
 ## 📫 Contact Me
 
-📧 Email: ashamolpushkaran097@gmail.com  
+
+📧 Email: ashamolpushkaran97@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/ashamol-pushkaran-003b99222
+💻 GitHub: https://github.com/AshamolPushkaran
+
